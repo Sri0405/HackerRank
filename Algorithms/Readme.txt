@@ -1,5 +1,5 @@
 
-Solutions to Problems in HackerRank mostly written in Python-2. 
+Solutions to Problems in HackerRank written in Python-2. 
 
 Most of the problems have received a optimal score.
 
